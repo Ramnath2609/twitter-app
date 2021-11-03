@@ -32,6 +32,6 @@
     "rate-limit-redis": "^1.7.0",
     "redis": "^3.0.2",
     "redis-rate-limiter": "^1.2.0",
-    "validator": "^12.2.0"
+    "validator": "^13.7.0"
   }
 }
